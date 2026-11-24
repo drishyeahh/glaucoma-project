@@ -1,5 +1,5 @@
 streamlit
-tensorflow-cpu
-ultralytics
-opencv-python-headless
+tensorflow-cpu==2.15.0
+ultralytics==8.0.221
 numpy
+opencv-python-headless==4.8.1.78
